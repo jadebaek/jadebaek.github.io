@@ -13,7 +13,7 @@
 Collaborated on designing and optimizing a lab-grade infusion pump for mouse self-administration experiments. Used Arduino for control logic, and custom circuit design to interface with lab behavior software.
 
 > Reduced build costs by 90% compared to commercial pumps.
-
+[Infusion Pump.zip](https://github.com/user-attachments/files/20014808/Infusion.Pump.zip)
 ---
 
 ### 🛠️ Head-Fix Mouse Experiment Rig
@@ -21,7 +21,9 @@ Collaborated on designing and optimizing a lab-grade infusion pump for mouse sel
 Collaborated with postdocs to build a customizable head-fix setup for two-photon imaging and lever-based behavior. Designed brackets and surgical tools using Autodesk Tinkercad. Integrated with custom software (REACHER).
 
 > Modular design allows reuse across multiple behavioral paradigms.
-
+[Head-fix Station.zip](https://github.com/user-attachments/files/20014861/Head-fix.Station.zip)
+[Lick Spout Holder.zip](https://github.com/user-attachments/files/20014814/Lick.Spout.Holder.zip)
+[Circuit Setup.zip](https://github.com/user-attachments/files/20014826/Circuit.Setup.zip)
 ---
 
 ### 💡 Arduino-Controlled Behavioral Levers
@@ -29,7 +31,7 @@ Collaborated with postdocs to build a customizable head-fix setup for two-photon
 Built behavioral lever systems with adjustable tension sensors for self-administration models. Used Arduino + breadboard circuitry to trigger reward delivery. Helped train labmates and optimize sensitivity.
 
 > Used across >4 concurrent experiments in lab.
-
+[Lever Setup.zip](https://github.com/user-attachments/files/20014810/Lever.Setup.zip)
 ---
 
 ## 🧰 Technical Tools
