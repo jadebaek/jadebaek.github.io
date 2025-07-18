@@ -51,6 +51,6 @@ Check back for:
 
 📫 **Contact**  
 Email: jadebaek.sy@gmail.com  
-CV: [Available upon request]  
+CV: [Jade Baek CV_06172025.pdf](https://github.com/user-attachments/files/21320682/Jade.Baek.CV_06172025.pdf)
 LinkedIn: https://www.linkedin.com/in/jade-baek-8a2700203/
 GitHub: [github.com/jadebaek](https://github.com/jadebaek)
