@@ -1,26 +1,22 @@
-# Jade Baek – Neuroscience + Lab Engineering Portfolio
+#Seo Young "Jade" Baek: Neuroscience & Lab Engineering Portfolio
+I am a neuroscience researcher and lab engineer who specializes in building accessible scientific tools. With a strong foundation in 3D printing and electronics, I focus on creating hardware solutions for euroscience experiments, including drug self-administration, head-fix setups, and advanced imaging.
 
-👋 Hi, I’m Jade Baek – a neuroscience researcher and lab engineer with a passion for 3D printing, electronics, and building accessible scientific tools. I’m currently working on mouse addiction neuroscience experiments involving drug self-administration, head-fix setups, and advanced imaging.
-
-🔧 This is a growing collection of my lab-built projects and hardware innovations.
-
+This repository showcases a selection of lab-built projects and hardware innovations.
 ---
 
 ## 🔬 Highlighted Projects
 
 ### 🧪 Modular Infusion Pump
 **Timeline**: 2023  
-Collaborated on designing and optimizing a lab-grade infusion pump for mouse self-administration experiments. Used Arduino for control logic, and custom circuit design to interface with lab behavior software.
+Collaborated on the design and optimization of a lab-grade infusion pump for mouse self-administration experiments. This project utilized Arduino for control logic and custom circuit design to interface with lab behavior software, successfully reducing build costs by 90% compared to commercial pumps.
 
-> Reduced build costs by 90% compared to commercial pumps.
 [Infusion Pump.zip](https://github.com/user-attachments/files/20014808/Infusion.Pump.zip)
 ---
 
 ### 🛠️ Head-Fix Mouse Experiment Rig
 **Timeline**: 2023  
-Collaborated with postdocs to build a customizable head-fix setup for two-photon imaging and lever-based behavior. Designed brackets and surgical tools using Autodesk Tinkercad. Integrated with custom software (REACHER).
+Partnered with post-doctoral researchers to build a customizable head-fix setup for two-photon imaging and lever-based behavior. The design included brackets and surgical tools created with Autodesk Tinkercad and was integrated with custom REACHER software. The modular design of this rig allows for reuse across multiple behavioral paradigms.
 
-> Modular design allows reuse across multiple behavioral paradigms.
 [Head-fix Station.zip](https://github.com/user-attachments/files/20014861/Head-fix.Station.zip)
 [Lick Spout Holder.zip](https://github.com/user-attachments/files/20014814/Lick.Spout.Holder.zip)
 [Circuit Setup.zip](https://github.com/user-attachments/files/20014826/Circuit.Setup.zip)
@@ -28,9 +24,8 @@ Collaborated with postdocs to build a customizable head-fix setup for two-photon
 
 ### 💡 Arduino-Controlled Behavioral Levers
 **Timeline**: 2024  
-Built behavioral lever systems with adjustable tension sensors for self-administration models. Used Arduino + breadboard circuitry to trigger reward delivery. Helped train labmates and optimize sensitivity.
+Developed behavioral lever systems with adjustable tension sensors for self-administration models. The system uses an Arduino and breadboard circuitry to trigger reward delivery. This project is currently used across over four concurrent experiments in the lab. Jade also trained lab colleagues on its use and optimized its sensitivity.
 
-> Used across >4 concurrent experiments in lab.
 [Lever Setup.zip](https://github.com/user-attachments/files/20014810/Lever.Setup.zip)
 ---
 
@@ -51,6 +46,6 @@ Check back for:
 
 📫 **Contact**  
 Email: jadebaek.sy@gmail.com  
-CV: [Jade Baek CV_06172025.pdf](https://github.com/user-attachments/files/21320682/Jade.Baek.CV_06172025.pdf)
+CV: [Jade Baek CV.pdf](https://github.com/user-attachments/files/22411755/Jade.Baek.CV.pdf)
 LinkedIn: https://www.linkedin.com/in/jade-baek-8a2700203/
 GitHub: [github.com/jadebaek](https://github.com/jadebaek)
