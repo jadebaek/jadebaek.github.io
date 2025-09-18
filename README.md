@@ -72,7 +72,7 @@ Check back for:
 ---
 
 📫 **Contact**  
-Email: jadebaek.sy@gmail.com  
-CV: [Jade Baek CV.pdf](https://github.com/user-attachments/files/22411755/Jade.Baek.CV.pdf)
-LinkedIn: https://www.linkedin.com/in/jade-baek-8a2700203/
-GitHub: [github.com/jadebaek](https://github.com/jadebaek)
+- Email: jadebaek.sy@gmail.com  
+- CV: [Jade Baek CV.pdf](https://github.com/user-attachments/files/22411755/Jade.Baek.CV.pdf)
+- LinkedIn: https://www.linkedin.com/in/jade-baek-8a2700203/
+- GitHub: [github.com/jadebaek](https://github.com/jadebaek)
