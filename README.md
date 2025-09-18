@@ -1,4 +1,4 @@
-#Seo Young "Jade" Baek: Neuroscience & Lab Engineering Portfolio
+# Seo Young "Jade" Baek: Neuroscience & Lab Engineering Portfolio
 I am a neuroscience researcher and lab engineer who specializes in building accessible scientific tools. With a strong foundation in 3D printing and electronics, I focus on creating hardware solutions for euroscience experiments, including drug self-administration, head-fix setups, and advanced imaging.
 
 This repository showcases a selection of lab-built projects and hardware innovations.
