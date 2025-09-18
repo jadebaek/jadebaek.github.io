@@ -1,4 +1,5 @@
 # Seo Young "Jade" Baek: Neuroscience & Lab Engineering Portfolio
+
 I am a neuroscience researcher and lab engineer who specializes in building accessible scientific tools. With a strong foundation in 3D printing and electronics, I focus on creating hardware solutions for euroscience experiments, including drug self-administration, head-fix setups, and advanced imaging.
 
 This repository showcases a selection of lab-built projects and hardware innovations.
@@ -29,6 +30,31 @@ Developed behavioral lever systems with adjustable tension sensors for self-admi
 [Lever Setup.zip](https://github.com/user-attachments/files/20014810/Lever.Setup.zip)
 ---
 
+### 🩺 Surgical Tools
+**Timeline**: 2024
+Designed custom 3D-printed surgical tools to meet individual surgeon's specific needs and preferences. These surgical tools are used for implanting a catheter in a mouse's jugular vein, allowing a direct injection of the substance into the mouse's circultory system.
+
+[Surgical Tools.zip](https://github.com/user-attachments/files/22412124/Surgical.Tools.zip)
+---
+
+### 🩺 Surgical Tools
+**Timeline**: 2024
+
+### 📝 Assembly Instructions and Troubleshooting Guides
+**Timeline**: 2025
+Wrote standard operating procedures (SOPs) for all custom-built system assembly and maintanance guidelines. Reach out for any further instructions needed.
+
+[The Labrynth Installation & Testing.pdf](https://github.com/user-attachments/files/22412091/The.Labrynth.Installation.Testing.pdf)
+[Soldering Instructions.pdf](https://github.com/user-attachments/files/22412090/Soldering.Instructions.pdf)
+[Lick Spout Holder Assembly Instructions.pdf](https://github.com/user-attachments/files/22412099/Lick.Spout.Holder.Assembly.Instructions.pdf)
+[Lever Assembly.pdf](https://github.com/user-attachments/files/22412098/Lever.Assembly.pdf)
+[Head Fix Stage Setup.pdf](https://github.com/user-attachments/files/22412097/Head.Fix.Stage.Setup.pdf)
+[Electronics & Circuit Setup.pdf](https://github.com/user-attachments/files/22412096/Electronics.Circuit.Setup.pdf)
+[Checking Lick Voltage.pdf](https://github.com/user-attachments/files/22412095/Checking.Lick.Voltage.pdf)
+[3D Printer Instructions.pdf](https://github.com/user-attachments/files/22412094/3D.Printer.Instructions.pdf)
+[3D Printed Pump Instruction.pdf](https://github.com/user-attachments/files/22412093/3D.Printed.Pump.Instruction.pdf)
+---
+
 ## 🧰 Technical Tools
 - **Software**: Python, C++, Arduino, GitHub, ImageJ, Autodesk Tinkercad
 - **Lab Hardware**: Two-photon microscopy, 3D printing (PLA/ABS), light sheet, EEG, optogenetics
@@ -38,9 +64,7 @@ Developed behavioral lever systems with adjustable tension sensors for self-admi
 
 ## 🌱 More Coming Soon
 Check back for:
-- Designs for surgical tools
-- Light-triggered behavioral system
-- Data pipelines for calcium imaging
+- Other DIY 3D-printing projects
 
 ---
 
